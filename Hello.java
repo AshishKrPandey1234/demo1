@@ -10,5 +10,14 @@ public class Hello {
         System.out.println(ar1[0]);
         System.out.println(ar1[0]);
         System.out.println(ar1[0]);
+        System.out.println(ar1[0]);
+        System.out.println(ar1[0]);
+        System.out.println(ar1[0]);
+        System.out.println(ar1[0]);
+        System.out.println(ar1[0]);
+        System.out.println(ar1[0]);
+        System.out.println(ar1[0]);
+        System.out.println(ar1[0]);
+        System.out.println(ar1[0]);
     }
 }
